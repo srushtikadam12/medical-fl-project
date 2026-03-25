@@ -1,0 +1,9 @@
+tensorflow
+torch
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow
+opencv-python
+flower
